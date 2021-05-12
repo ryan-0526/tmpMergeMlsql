@@ -37,7 +37,6 @@ object LocalSparkApp {
       "-streaming.carbondata.store", "/data/carbon/store",
       "-streaming.carbondata.meta", "/data/carbon/meta",
       "-streaming.job.file.path", "classpath:///test/batch-mlsql.json"
-
     ))
   }
 }
