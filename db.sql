@@ -20,7 +20,7 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 
-# Dump of table w_app_record
+# Dump of table w_app_record    fdsfs
 # ------------------------------------------------------------
 
 CREATE TABLE `w_app_record` (
