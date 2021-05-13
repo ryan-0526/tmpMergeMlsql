@@ -44,7 +44,6 @@ import scala.collection.mutable.ArrayBuffer
   */
 class SQLDownloadExt(override val uid: String) extends SQLAlg with Logging with WowLog with WowParams {
 
-
   def evaluate(value: String) = {
     def withPathPrefix(prefix: String, path: String): String = {
 
